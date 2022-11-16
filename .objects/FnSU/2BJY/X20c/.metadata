@@ -1,0 +1,15 @@
+﻿{
+  "Id": "X20cCfy1mk-m1rZSPWuiaQ",
+  "Reference": "gqCfEyAtjky6qr4TiSncBA/X20cCfy1mk-m1rZSPWuiaQ",
+  "ParentRef": "gqCfEyAtjky6qr4TiSncBA/2BJYxIIp3UaNRd6x5g4emQ",
+  "Name": "ABCL_Login",
+  "Type": "Screen",
+  "Created": "2022-11-15T04:45:57.9548268Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T04:45:57.9548268Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

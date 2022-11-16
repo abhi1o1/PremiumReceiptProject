@@ -1,0 +1,13 @@
+﻿{
+  "Id": "lkRPdCxRkki8sIR7JDiEfw",
+  "Reference": "gqCfEyAtjky6qr4TiSncBA/lkRPdCxRkki8sIR7JDiEfw",
+  "ParentRef": "gqCfEyAtjky6qr4TiSncBA/x9bvXjx1pUesw1oL2xeGeg",
+  "Name": "Button_CheckUserID",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-11-15T04:45:57.978838Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T04:45:57.978838Z"
+}
